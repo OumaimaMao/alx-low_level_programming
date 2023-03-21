@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * alphabet - Entry point
- *
+ * print_alphabet_x10 - Make alphabet
  * Return: void
  */
+
 void print_alphabet_x10(void)
 {
 	char r;
